@@ -1,0 +1,9 @@
+numpy
+opencv-python-headless
+torch
+ultralytics
+deep-sort-realtime
+fastapi
+uvicorn
+mlflow
+python-multipart

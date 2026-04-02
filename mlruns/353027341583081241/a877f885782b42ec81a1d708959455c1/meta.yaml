@@ -1,0 +1,14 @@
+artifact_uri: file:///home/deepak/projects/Ml_ops/mlruns/353027341583081241/a877f885782b42ec81a1d708959455c1/artifacts
+end_time: 1775133566066
+entry_point_name: ''
+experiment_id: '353027341583081241'
+lifecycle_stage: active
+run_id: a877f885782b42ec81a1d708959455c1
+run_name: run_fast_traffic.mp4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775133488933
+status: 3
+tags: []
+user_id: deepak
